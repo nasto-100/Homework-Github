@@ -1,0 +1,22 @@
+{ 
+   "firstName" : "Anastasiya",
+   "lastName" : "Kovaleva",
+   "age" : 26,
+   "adress" : { 
+	        "country" : "Belarus",
+		"city" : "Minsk"
+              },
+   "pets" : 0
+}
+
+
+
+
+
+
+
+
+
+
+
+
