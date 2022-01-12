@@ -1,1 +1,13 @@
-
+<BugReport>
+  <Summary>product catalog is not displayed after clicking on the button Catalog</Summary>
+  <Description>
+     <STR>go to website</STR>
+     <STR>click on the button Catalog</STR>
+     <ActualResult>product catalog is not displayed</ActualResult>
+     <ExpectedResult>product catalog displays correctly</ExpectedResult>
+   </Description>
+   <Reporter>Anastasiya Kovaleva</Reporter>
+   <priority>High</priority>
+   <severity>Critical</severity>
+   <assignee>Ivan Ivanov</assignee>
+  </BugReport>
