@@ -1,0 +1,10 @@
+<AboutMe>
+	<FirstName>Anastasiya</FirstName>
+	<LastName>Kovaleva</LastName>
+	<Age>26</Age>
+        <Adress>
+		<Country>Belarus</Country>
+		<City>Minsk</City>
+	</Adress>
+	<Pets>0</Pets>
+</AboutMe>
