@@ -1,1 +1,15 @@
-
+{ 
+  "summary" : "product catalog is not displayed after clicking on the button Catalog" ,
+  "description" : { 
+                      "str" : [  
+                                 " go to website" ,
+                                 "click on the button Catalog" 
+                               ] ,
+                      "actualResult" : "product catalog is not displayed" ,
+                      "expectedResult" : "product catalog displays correctly" 
+                    } ,
+  "reporter" : "Anastasiya Kovaleva",
+  "priority" : "High",
+  "severity" : "Critical",
+  "assignee" ; "Ivan Ivanov" 
+}
