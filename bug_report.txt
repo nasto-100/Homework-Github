@@ -1,1 +1,13 @@
+Bug report:
+-summary: product catalog is not displayed after clicking on the button Catalog;
+-description: 
+   *str: 1.go to website;
+         2.click on the button Catalog.
+   *Actual Result: product catalog is not displayed;
+   *Expected Result: product catalog displays correctly;
+-reporter: Anastasiya Kovaleva;   
+-priority: High;
+-severity: Critical;
+-assignee: Ivan Ivanov.
 
+      
