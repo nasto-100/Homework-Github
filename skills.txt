@@ -1,0 +1,17 @@
+Skills:
+*theory
+*client-server architecture
+*structure JSON
+*structure XML
+*API testing
+*Postman
+*Fidler
+*VPN
+*Dev Tools
+*mobile testing
+*mobile traffic sniffing
+*Command line terminal
+*SQL Basics
+*Git
+*Jmeter
+*Python

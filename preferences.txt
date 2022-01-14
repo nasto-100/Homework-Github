@@ -1,0 +1,6 @@
+Preferences:
+* favourite film - Van Helsing
+* favourite serial - Vikings
+* favourite food - potato
+* favourite season - summer
+* want visit country - Italy
