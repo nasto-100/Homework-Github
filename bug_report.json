@@ -1,6 +1,6 @@
 { 
   "ID" : 1 ,
-  "summary" : "product catalog is not displayed after push on the button "Catalog"" ,
+  "summary" : "product catalog is not displayed after push on the button Catalog" ,
   "environment" : "Windows 10, Chrome  97.0.4692.71" ,
   "description" : { 
                       "str" : [  
