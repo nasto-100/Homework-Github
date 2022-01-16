@@ -1,9 +1,11 @@
 { 
-  "summary" : "product catalog is not displayed after clicking on the button Catalog" ,
+  "ID" : 1 ,
+  "summary" : "product catalog is not displayed after push on the button "Catalog"" ,
+  "environment" : "Windows 10, Chrome  97.0.4692.71" ,
   "description" : { 
                       "str" : [  
                                  " go to website" ,
-                                 "click on the button Catalog" 
+                                 "push on the button Catalog" 
                                ] ,
                       "actualResult" : "product catalog is not displayed" ,
                       "expectedResult" : "product catalog displays correctly" 
@@ -12,4 +14,6 @@
   "priority" : "High",
   "severity" : "Critical",
   "assignee" : "Ivan Ivanov" 
+  "status" : "in working" ,
+  "version" : 1
 }
