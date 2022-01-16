@@ -1,13 +1,17 @@
 Bug report:
--summary: product catalog is not displayed after clicking on the button Catalog;
--description: 
-   *str: 1.go to website;
-         2.click on the button Catalog.
-   *Actual Result: product catalog is not displayed;
-   *Expected Result: product catalog displays correctly;
--reporter: Anastasiya Kovaleva;   
--priority: High;
--severity: Critical;
--assignee: Ivan Ivanov.
+- ID: 1;
+- Summary: product catalog is not displayed after push on the button "Catalog";
+- Environment: Windows 10, Chrome  97.0.4692.71;
+- Str:  1. go to website;
+        2. push on the button "Catalog".
+- Actual Result: product catalog is not displayed;
+- Expected Result: product catalog displays correctly;
+- Attachment: screenshot; 
+- Severity: Critical;
+- Priority: High;
+- Status: in working; 
+- Reporter: Anastasiya Kovaleva; 
+- Assignee: Ivan Ivanov;
+- Version: 1.
 
       
