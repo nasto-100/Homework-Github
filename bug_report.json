@@ -13,7 +13,7 @@
   "reporter" : "Anastasiya Kovaleva",
   "priority" : "High",
   "severity" : "Critical",
-  "assignee" : "Ivan Ivanov" 
+  "assignee" : "Ivan Ivanov" ,
   "status" : "in working" ,
   "version" : 1
 }
