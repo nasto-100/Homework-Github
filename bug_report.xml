@@ -4,7 +4,7 @@
   <Summary>product catalog is not displayed after push on the button "Catalog"</Summary>
   <Environment>Windows 10, Chrome  97.0.4692.71</Environment>
   <STR>go to website</STR>
-  <STR>push on the button Catalog</STR>
+  <STR>push on the button "Catalog"</STR>
   <ActualResult>product catalog is not displayed</ActualResult>
   <ExpectedResult>product catalog displays correctly</ExpectedResult>
   <Reporter>Anastasiya Kovaleva</Reporter>
